@@ -2,7 +2,7 @@
 $server = "localhost";
 $user = "root";
 $password = "root";
-$database = "db_estoque";
+$database = "bd_estoque";
 
 
 

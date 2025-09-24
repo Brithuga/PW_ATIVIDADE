@@ -4,7 +4,7 @@ include 'conexao.php';
 
 
 $nm_usuario = $_POST['nome'];
-$dt_nascimento = $_POST['data'];
+$dt_nascimento = $_POST['dt_nascimento'];
 $login = $_POST['login'];
 $senha_usuario = $_POST['senha'];
 $setor = $_POST['setor'];
